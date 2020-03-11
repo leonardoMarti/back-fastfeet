@@ -1,0 +1,27 @@
+{
+  "name": "back-fastfeet",
+  "version": "1.0.0",
+  "description": "Back-end da aplicação de entregas.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardoMarti/back-fastfeet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonardoMarti/back-fastfeet/issues"
+  },
+  "homepage": "https://github.com/leonardoMarti/back-fastfeet#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1",
+    "nodemon": "^2.0.2"
+  }
+}
